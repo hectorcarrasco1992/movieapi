@@ -15,6 +15,4 @@
     8. set up routes pertaining to ejs files
     9. make the methods that render them passing along information needed
     10. in ejs files use that information passed along and make sure they render 
-   
-   
-   
+    11. move functions to controller file and require it in users.js and index.js
